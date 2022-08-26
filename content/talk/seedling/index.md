@@ -12,3 +12,4 @@ subtitle: Testing
 title: A seedling
 ---
 
+Prueba de que lo puedo editar en git
