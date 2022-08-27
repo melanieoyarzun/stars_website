@@ -3,7 +3,7 @@ title: "HBES 2021"
 author: "Melanie Oyarzun"
 date: "2021-06-24"
 date_end: "2021-07-02"
-draft: yes
+draft: no
 event: HBES 2021
 event_url: "https://www.hbes.com/portfolio-item/32nd-annual-hbes-conference-virtually-everywhere/"
 excerpt: " Here, we present the results of a large-scale experiment (856 children between 9 to 12 years) from 14 different elementary schools in Santiago de Chile, designed to measure social status through aggregated cooperative patterns and then explore the connection between friendship and dyadic cooperation in students with different social status."
