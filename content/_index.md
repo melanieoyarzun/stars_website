@@ -1,11 +1,11 @@
 ---
-action_label: Read More &rarr;
+action_label: Ver más &rarr;
 action_link: /about
 action_type: text
 description: Bienvenido a mi sitio web.
 image_left: true
 images:
-- img/melanie_funny.jpeg
+- img/IMG_4481.JPG
 show_action_link: true
 show_social_links: true
 subtitle: Phd candidate in Social Complexity Sciences
