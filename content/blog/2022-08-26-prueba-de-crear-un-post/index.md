@@ -8,7 +8,7 @@ categories:
 tags: []
 subtitle: 'Prueba'
 excerpt: ''
-draft: yes
+draft: false
 series: ~
 layout: single
 ---
