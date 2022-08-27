@@ -5,7 +5,7 @@ action_type: text
 description: Bienvenido a mi sitio web.
 image_left: true
 images:
-- img/revoir.jpg
+- img/melanie_funny.jpeg
 show_action_link: true
 show_social_links: true
 subtitle: Phd candidate in Social Complexity Sciences
