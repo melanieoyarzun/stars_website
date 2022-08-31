@@ -4,7 +4,7 @@ author: "Melanie Oyarzun"
 role: "Phd Student con Social COmplexity Sciences"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
-audio_link_label: "¿Cómo decir mi nombre?:" # leave blank to exclude
+#audio_link_label: "¿Cómo decir mi nombre?:" # leave blank to exclude
 link_list_label: "Otros links" # bookmarks, elsewhere, etc.
 link_list:
 - name: Perfil CICS UDD
