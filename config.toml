@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = ""
 theme = "hugo-apero"
 languageCode = "es"
 title = "Melanie Oyarzun"
@@ -40,7 +40,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/melianie_funny.jpg"
+  sharing_image = "/img/meli-ilustrada.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "mel2kill"
   
@@ -143,23 +143,23 @@ enableEmoji = true
     url = "/about/"
     weight = 1
 
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
+#  [[menu.header]]
+#    name = "Blog"
+#    title = "Blog"
+#    url = "/blog/"
+#    weight = 2
 
-  [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 3
+#  [[menu.header]]
+#    name = "Projects"
+#    title = "Project Portfolio"
+#    url = "/project/"
+#    weight = 3
 
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 4
+#  [[menu.header]]
+#    name = "Talks"
+#    title = "Talks"
+#    url = "/talk/"
+#    weight = 4
 
 #  [[menu.header]]
 #    name = "Teaching"
