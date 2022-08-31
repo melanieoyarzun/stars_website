@@ -28,7 +28,7 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "Center for Social Complexity (CICS) & CINS "
+  orgName = "Melanie Oyarzun @ Center for Social Complexity (CICS) & CINS "
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/MO-3.png"
   logo = "/img/MO-3.png"
