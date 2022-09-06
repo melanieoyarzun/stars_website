@@ -137,11 +137,12 @@ enableEmoji = true
 
 [menu]
   # Configure header 
-#  [[menu.header]]
-#    name = "About"
-#    title = "About"
-#    url = "/about/"
-#    weight = 1
+
+[[menu.header]]
+  name = "About"
+  title = "About"
+  url = "/about/"
+  weight = 1
 
 #  [[menu.header]]
 #    name = "Blog"
@@ -149,11 +150,11 @@ enableEmoji = true
 #    url = "/blog/"
 #    weight = 2
 
-#  [[menu.header]]
-#    name = "Projects"
-#    title = "Project Portfolio"
-#    url = "/project/"
-#    weight = 3
+  [[menu.header]]
+    name = "Projects"
+    title = "Project Portfolio"
+    url = "/project/"
+    weight = 3
 
 #  [[menu.header]]
 #    name = "Talks"
@@ -172,6 +173,13 @@ enableEmoji = true
 #    title = "Element Page"
 #    url = "/elements/"
 #    weight = 6
+
+  [[menu.header]]
+    name = "collection"
+    title = "Collection Page"
+    url = "/collection/"
+    weight = 7
+ 
     
   # Configure footer  
   [[menu.footer]]

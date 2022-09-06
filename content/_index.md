@@ -5,7 +5,7 @@ action_type: text
 description: Bienvenido a mi sitio web (en crecimiento).
 image_left: true
 images:
-- img/IMG_4481.JPG
+- img/IMG_4481.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Phd. candidate in Social Complexity Sciences
