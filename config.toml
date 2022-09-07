@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://moyarzun.netlify.app"
 theme = "hugo-apero"
 languageCode = "es"
 title = "Melanie Oyarzun"
