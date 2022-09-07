@@ -1,7 +1,7 @@
 ---
 date: "2022-09-7"
 draft: false
-excerpt: Social Interactions and School Coexistence in Public Elementary Schools’ Neurodiverse Classrooms: Context, objectives and hypothesis 
+excerpt: Social Interactions and School Coexistence in Public Elementary Schools’ Neurodiverse Classrooms - Context, objectives and hypothesis 
 subtitle: "Context, objectives and hypothesis"
 title: Introduction
 weight: 1
