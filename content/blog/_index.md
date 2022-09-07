@@ -1,5 +1,5 @@
 ---
-author: The R Markdown Team @RStudio
+author: Melanie Oyarzun
 cascade:
   author: 
   show_author_byline: false
@@ -18,7 +18,7 @@ show_post_thumbnail: true
 sidebar:
   author: Melanie Oyarzun
   description: "Post sobre procesos, resultados e investigación. Acá yo misma me explico cosas para poder recordarlas."
-  show_sidebar_adunit: true
+  show_sidebar_adunit: false
   text_link_label: Subscríbete via RSS
   text_link_url: /index.xml
   title: Data and  Science, un blog para autoexplicarme cosas.

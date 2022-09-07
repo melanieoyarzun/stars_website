@@ -13,7 +13,7 @@ weight: 2
 
     ![](stars-table1.png)
 
-2.  Children with autism significantly e**ngage in less reciprocal relationships**, compared with typically developing children.
+2.  Children with autism significantly **engage in less reciprocal relationships**, compared with typically developing children.
 
     ![](stars-heatmap.png)
 
