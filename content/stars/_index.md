@@ -1,12 +1,12 @@
 ---
-author: Alison Hill
+author: Melanie Oyarzun 
 cascade:
-  layout: single-series
+  layout: sigle-series
   sidebar:
     author: Melanie Oyarzun
-    description: "Sometimes you want a souped-up series- a bundle of related pages
-      \nmeant to be read in sequence. This section is like a blog series, \nminus
-      the blog.\n"
+    description: "
+    **What is the role of autism and ADHD in social relationships in educational contexts?** \n
+    In this project we study social Interactions and School Coexistence in Public Elementary Schools’ Neurodiverse Classrooms. \n  "
     show_author_byline: false
     show_post_date: false
     show_sidebar_adunit: false
@@ -14,14 +14,16 @@ cascade:
     text_link_label: ""
     text_link_url: ""
     text_series_label: Outline
-    title: Collection
-description: "Sometimes you want a souped-up series- a bundle of related pages \nmeant
-  to be read in sequence. This section is like a blog series, \nminus the blog.\n"
-layout: list-sidebar
+    title: Stars Project
+description: "**What is the role of autism and ADHD in social relationships in educational contexts?** \n
+    In this project we study social Interactions and School Coexistence in Public Elementary Schools’ Neurodiverse Classrooms. \n"
+layout: list
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
-subtitle: A collection, minus the blog.
+subtitle: Studying the the role of autism and ADHD in social relationships in educational contexts.
 thumbnail_left: false
 title: Stars Project
 ---
+
+
