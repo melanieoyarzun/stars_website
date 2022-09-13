@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Melanie Oyarzun"
-role: "Phd Student con Social COmplexity Sciences"
+role: "Phd Student con Social Complexity Sciences"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 #audio_link_label: "¿Cómo decir mi nombre?:" # leave blank to exclude
