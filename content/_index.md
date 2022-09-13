@@ -2,7 +2,7 @@
 #action_label: Ver más &rarr;
 #action_link: /about
 action_type: text
-description: Bienvenido a mi sitio web (en crecimiento).
+description: Welcome to my (small) personal website
 image_left: true
 images:
 - img/IMG_4481.jpg
