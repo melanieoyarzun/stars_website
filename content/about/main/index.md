@@ -1,8 +1,8 @@
 ---
 title: "Novedades"
-number_featured: 2
+number_featured: 1
 use_featured: yes
-number_categories: 3
+number_categories: 2
 show_intro: no
 intro: " What I am up to?"
 
@@ -14,5 +14,3 @@ outro: "<i class=\"fas fa-glass-cheers pr2\"></i>Sincere thanks to [Maëlle Salm
 
 ---
 
-** index doesn't contain a body, just front matter above.
-See about/list.html in the layouts folder **
