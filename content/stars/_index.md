@@ -7,9 +7,9 @@ cascade:
     description: "
     **What is the role of autism and ADHD in social relationships in educational contexts?** \n
     In this project we study social Interactions and School Coexistence in Public Elementary Schools’ Neurodiverse Classrooms. \n  "
-    show_author_byline: false
-    show_post_date: false
-    show_sidebar_adunit: false
+    show_author_byline: true
+    show_post_date: true
+    show_sidebar_adunit: true
     text_contents_label: On this page
     text_link_label: ""
     text_link_url: ""
