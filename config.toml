@@ -1,6 +1,7 @@
 baseURL = "https://moyarzun.netlify.app"
+
 theme = "hugo-apero"
-languageCode = "es"
+languageCode = "en"
 title = "Melanie Oyarzun"
 author = "Melanie Oyarzun"
 copyright = "" # set to override the auto generated copyright using org info and now year
@@ -29,10 +30,11 @@ enableEmoji = true
     
 [params]
   orgName = "Melanie Oyarzun @ Center for Social Complexity (CICS) & CINS "
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  orgLocal = ""
+  description = "My personal website"
   favicon = "/img/MO-3.png"
   logo = "/img/MO-3.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["stars"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -74,6 +76,7 @@ enableEmoji = true
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
+
 
   # Configuration of math rendering
   [params.math]
