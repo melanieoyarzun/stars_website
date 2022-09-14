@@ -183,7 +183,7 @@ enableEmoji = true
  [[menu.header]]
     name = "Estrellas 2"
     title = "Estrellas 2"
-    url = "/collection/"
+    url = "/estrellas2/"
     weight = 3
  
  
