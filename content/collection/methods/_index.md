@@ -9,7 +9,7 @@ publishDate: "2021-01-22"
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
-subtitle: Combining experimental game theory and .
+subtitle: Combining Experimental Game Theory and Social Network Analysts
 title: Methods
 weight: 2
 url: "/stars/methods"

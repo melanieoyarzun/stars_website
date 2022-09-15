@@ -3,7 +3,7 @@ date: "2022-07-7"
 draft: false
 excerpt: Methods for "Social Interactions and School Coexistence in Public Elementary Schools’ Neurodiverse Classrooms".
 subtitle: ""
-title: Networks
+title: Social Network Anlaysis
 weight: 2
 url: "/stars/networks"
 ---

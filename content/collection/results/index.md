@@ -18,7 +18,12 @@ url: "/stars/results"
 
 2.  Children with autism significantly **engage in less reciprocal relationships**, compared with typically developing children.
 
+**Distribution of reciprocated choice:**
 
 ![](stars-heatmap.png)
+
+**Probability of reciprocated choice**
+
+![](images/paste-4C9D9826.png)
 
 3.  **Contrary to the literature**, children with ADHD did not show any significant differences  to both TD children  and children with special educational needs, including autism. 
