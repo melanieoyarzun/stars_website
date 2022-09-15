@@ -1,38 +1,30 @@
 ---
-date: "2022-10-7"
+date: "2022-05-7"
 draft: false
 excerpt: List of references for "Social Interactions and School Coexistence in Public Elementary Schools’ Neurodiverse Classrooms".
 subtitle: ""
 title: References
 weight: 4
+url: "/stars/references"
 ---
 
 A list of references for **"Social Interactions and School Coexistence in Public Elementary Schools’ Neurodiverse Classrooms".**
+
+
+Aboitiz, F., Ossandón, T., Zamorano, F., & Pablo Billeke, Y. (2012). Balance en la cuerda floja: la neurobiología del trastorno por déficit atencional e hiperactividad. Revista Médica Clínica Las Condes, 23(5), 559–565. https://doi.org/10.1016/s0716-8640(12)70350-4
 
 Aerne, A. (2020). Prestige in social dilemmas: A network analytic approach to cooperation among Bogotá’s art organizations. Social Networks, 61, 196–209.
 
 Almaatouq, A., Radaelli, L., Pentland, A., & Shmueli, E. (2016). Are You Your Friends’ Friend? Poor Perception of Friendship Ties Limits the Ability to Promote Behavioral Change. PloS One, 11(3), e0151588.
 
-Andrews, N. C. Z. (2020). Prestigious Youth are Leaders but Central Youth are Powerful: What Social Network Position Tells us About Peer Relationships. Journal of Youth and Adolescence, 49(3), 631–644.
-
-Ball, B., & Newman, M. E. J. (2013). Friendship networks and social status. Network Science, 1(1), 16–30.
-
-Cheng, J. T., Tracy, J. L., & Henrich, J. (2021). Dominance is necessary to explain human status hierarchies. Proceedings of the National Academy of Sciences of the United States of America, 118(22), e2103870118.
-
-de Waal, F. B. M. (1999). Anthropomorphism and Anthropodenial: Consistency in Our Thinking about Humans and Other Animals. Philosophical Topics, 27(1), 255–280.
-
-Fehr, E., & Leibbrandt, A. (2011). A field study on cooperativeness and impatience in the Tragedy of the Commons. Journal of Public Economics. https://doi.org/10.1016/j.jpubeco.2011.05.013
-
-Henrich, J., & Gil-White, F. J. (2001). The evolution of prestige: Freely conferred deference as a mechanism for enhancing the benefits of cultural transmission. Evolution and Human Behavior: Official Journal of the Human Behavior and Evolution Society, 22(3), 165–196.
-
-
-Aboitiz, F., Ossandón, T., Zamorano, F., & Pablo Billeke, Y. (2012). Balance en la cuerda floja: la neurobiología del trastorno por déficit atencional e hiperactividad. Revista Médica Clínica Las Condes, 23(5), 559–565. https://doi.org/10.1016/s0716-8640(12)70350-4
-
 American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (Fifth Edit). American Psychiatric Publishing.
 
 Andrews, N. C. Z. (2020). Prestigious Youth are Leaders but Central Youth are Powerful: What Social Network Position Tells us About Peer Relationships. Journal of Youth and Adolescence, 49(3), 631–644. https://doi.org/10.1007/s10964-019-01080-5
 
+
 Andrews, N. C. Z., McDowell, H., Spadafora, N., & Dane, A. V. (2021). Using social network position to understand early adolescents’ power and dominance within a school context. School Psychology. https://doi.org/10.1037/spq0000445
+
+Ball, B., & Newman, M. E. J. (2013). Friendship networks and social status. Network Science, 1(1), 16–30.
 
 Baek, E. C., Hyon, R., López, K., Finn, E. S., Porter, M. A., & Parkinson, C. (2022). In-degree centrality in a social network is linked to coordinated neural activity. Nature Communications, 13(1), 1–13. https://doi.org/10.1038/s41467-022-28432-3
 
@@ -49,6 +41,9 @@ Cui, T., Wang, P. P., Liu, S., & Zhang, X. (2017). P300 amplitude and latency in
 Deković, M., Janssens, J. M., & Van As, N. M. (2003). Family predictors of antisocial behavior in adolescence. Family Process, 42(2), 223-235.
 
 Doernberg, E., & Hollander, E. (2016). Neurodevelopmental Disorders (ASD and ADHD): DSM-5, ICD-10, and ICD-11. CNS Spectrums, 21(4), 295–299. https://doi.org/10.1017/S1092852916000262
+
+
+Fehr, E., & Leibbrandt, A. (2011). A field study on cooperativeness and impatience in the Tragedy of the Commons. Journal of Public Economics. https://doi.org/10.1016/j.jpubeco.2011.05.013
 
 Gotts, S. J., Simmons, W. K., Milbury, L. a, Wallace, G. L., Cox, R. W., & Martin, A. (2012). Fractionation of social brain circuits in autism spectrum disorders. Brain : A Journal of Neurology, 135(Pt 9), 2711–2725. https://doi.org/10.1093/brain/aws160
 

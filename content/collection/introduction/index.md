@@ -1,10 +1,11 @@
 ---
-date: "2022-09-7"
+date: "2022-09-25"
 draft: false
 excerpt: Context, objectives and hypothesis of the project. 
 subtitle: "Context, objectives and hypothesis"
 title: Introduction
-weight: 1
+weight: 2
+url: "/stars/introduction"
 ---
 
 ## Context:
@@ -28,3 +29,7 @@ Nevertheless, how different developmental conditions of children in a neurodiver
 In the Chilean Educational System, students are assigned to an specific group of peers, which continues to be their classroom until they graduate.
 
 **Neurodiverse classrooms** are group of peers in which children with special educational needs (SEN) **engage and participate together** with other students in their formative activities.
+
+![](images/paste-1F066384.png)
+
+

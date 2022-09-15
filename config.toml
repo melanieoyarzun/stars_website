@@ -77,9 +77,7 @@ enableEmoji = true
     theme = "boxy-light"
     label = "comments :crystal_ball:"
 
-# Permalinks
-[permalinks]
-  estrellas2 = "/collection/:filename/"
+
 
   # Configuration of math rendering
   [params.math]
@@ -234,5 +232,7 @@ weight = 2
     disable = false
     privacyEnhanced = true
     
-    
+  # Permalinks
+[permalinks]
+  estrellas2 = "/collection/:filename/"
 

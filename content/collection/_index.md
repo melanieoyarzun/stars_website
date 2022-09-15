@@ -1,4 +1,6 @@
 ---
+url: "/stars"
+
 author: Melanie Oyarzun 
 cascade:
   layout: single-series
