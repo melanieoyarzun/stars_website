@@ -1,6 +1,6 @@
 ---
-#action_label: Ver más &rarr;
-#action_link: /about
+action_label: More about me &rarr;
+action_link: /about
 action_type: text
 description: Welcome to my (small) personal website
 image_left: true
