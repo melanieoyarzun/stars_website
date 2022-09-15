@@ -194,8 +194,8 @@ relativeURLs = true
 
  
  [[menu.header]]
-name = "stars Project (EUSN22 Poster website)"
-title = "Stars Project (EUSN22 Poster website)"
+name = "stars Project (EUSN2022 Poster website)"
+title = "Stars Project (EUSN2022 Poster website)"
 url = "/stars/"
 weight = 2
     
