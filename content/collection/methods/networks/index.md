@@ -3,12 +3,14 @@ date: "2022-07-7"
 draft: false
 excerpt: Methods for "Social Interactions and School Coexistence in Public Elementary Schools’ Neurodiverse Classrooms".
 subtitle: ""
-title: Social Network Anlaysis
+title: Social Network Analysis
 weight: 2
 url: "/stars/networks"
 ---
 
 # Social Network Analysis
+
+We employ Social Network Analysis to quantify patterns of interactions, the social structure of groups, and individual positions in these groups.
 
 We constructed **two interaction networks** **for each classroom** in which students are nodes, and links are defined by their behavior in the game.
 
