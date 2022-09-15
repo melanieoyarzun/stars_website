@@ -7,8 +7,11 @@ cascade:
   sidebar:
     author: 
     description: "
+  **This website is a complement to the poster presented at [EUSN 2022](https://eusn2022.org) - 6th European Conference on Social Networks and is a work in progress**
   
-  In this study: **Social Interactions and School Coexistence in Public Elementary Schools’ Neurodiverse Classrooms**  we aim to better understand the role of neurodivergencies in social relationships in educational contexts.
+    \n 
+  
+  In this study: **Social Interactions and School Coexistence in Public Elementary Schools’ Neurodiverse Classrooms**  we aim to better understand the role of neurodiversity in social relationships in educational contexts.
   
   \n 
   
@@ -16,11 +19,12 @@ cascade:
 
   \n 
 
-    The project is led by [Patricia Soto-Icaza](https://dccs.udd.cl/persona/patricia-soto-icaza/) researcher at the   Laboratory In Social Neurociences at The Research Center for Social Complexity (CICS *in spanish*), Facultad de Gobierno, Universidad del Desarrollo, Chile.
+    The project is led by [Patricia Soto-Icaza](https://dccs.udd.cl/persona/patricia-soto-icaza/) researcher at the   Laboratory In Social Neurociences at The Research Center for Social Complexity (CICS *in spanish*), Facultad de Gobierno, Universidad del Desarrollo, Chile.
     
     \n
     
-    The project is funded by the Chilean National Agency of Research and Development (in spanish, ANID -Agencia Nacional de Investigación y Desarrollo) *PAI project folio 7719004*. "
+    The project is funded by the Chilean National Agency of Research and Development (in spanish, ANID -Agencia Nacional de Investigación y Desarrollo) *PAI project folio 7719004*.
+    "
     
     
     show_author_byline: false

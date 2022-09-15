@@ -14,9 +14,9 @@ url: "/stars/results"
 
 ![](images/paste-5DFAA44C.png)
 
-All estimations presented at with classroom level fixed effects and clustered standar errors.
+All estimations presented have classroom level fixed effects and clustered standar errors.
 
-1.  Children with autism significantly **engage in less reciprocal relationships**, compared with typically developing children.
+2.  Children with autism significantly **engage in less reciprocal relationships**, compared with typically developing children.
 
 **Distribution of reciprocated choice:**
 
@@ -28,6 +28,6 @@ All estimations presented at with classroom level fixed effects and clustered st
 
 **Reciprocated Stars**
 
-1.  **Contrary to the literature**, children with ADHD did not show any significant differences  to both TD children  and children with special educational needs, including autism. 
+3.  **Contrary to the literature**, children with ADHD did not show any significant differences  to both TD children  and children with special educational needs, including autism. 
 
 ![](images/paste-8C8DC7DE.png)

@@ -28,7 +28,7 @@ The game protocol is the following:
 
 1.  Informed consent
 
-<img src="images/paste-A18A0B36.png"  width="400" caption="The game ask if ypu want to play">
+<img src="images/paste-A18A0B36.png"  width="400">
 
 2.  Earn 15 stars in a real effort task
 
