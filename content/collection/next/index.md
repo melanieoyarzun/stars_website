@@ -1,7 +1,7 @@
 ---
 date: "2022-12-8"
 draft: false
-excerpt: The next stage of the project is....
+excerpt: The next stage of the project is at the NeuroScinces Lab....
 subtitle: "Social NeuroScience Analysis"
 title: What's Next?
 weight: 6

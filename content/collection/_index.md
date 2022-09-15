@@ -7,18 +7,20 @@ cascade:
   sidebar:
     author: 
     description: "
-    **What is the role of autism and ADHD in social relationships in educational contexts?**
-    \n 
-    
-  The work **Social Interactions and School Coexistence in Public Elementary Schools’ Neurodiverse Classrooms.**  is the first part of an interdisciplinary research that entails a Multilevel approach, i.e. , the group level analysis, the individual level analysis, and the brain level analysis. 
+  
+  In this study: **Social Interactions and School Coexistence in Public Elementary Schools’ Neurodiverse Classrooms**  we aim to better understand the role of neurodivergencies in social relationships in educational contexts.
+  
+  \n 
+  
+ This work is the first part of an interdisciplinary research that entails a Multilevel approach, i.e. , the group level analysis, the individual level analysis, and the brain level analysis. 
 
   \n 
 
-    This project is led by [Patricia Soto-Icaza](https://dccs.udd.cl/persona/patricia-soto-icaza/) researcher at the   Laboratory In Social Neurociences at The Research Center for Social Complexity (CICS *in spanish*), Facultad de Gobierno, Universidad del Desarrollo.
+    The project is led by [Patricia Soto-Icaza](https://dccs.udd.cl/persona/patricia-soto-icaza/) researcher at the   Laboratory In Social Neurociences at The Research Center for Social Complexity (CICS *in spanish*), Facultad de Gobierno, Universidad del Desarrollo, Chile.
     
     \n
     
-    This project is funded by the Chilean National Agency of Research and Development (in spanish, ANID -Agencia Nacional de Investigación y Desarrollo) *PAI project folio 7719004*. "
+    The project is funded by the Chilean National Agency of Research and Development (in spanish, ANID -Agencia Nacional de Investigación y Desarrollo) *PAI project folio 7719004*. "
     
     
     show_author_byline: false
