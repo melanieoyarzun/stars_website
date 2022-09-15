@@ -24,15 +24,21 @@ url: "/stars/methods/stars-game"
 
 ## The Stars game
 
-The game protocol have 4 stages, implemented in the
+The game protocol is the following:
 
-1.  Informed consent and earn 15 stars in a real effort task
+1.  Informed consent
 
-2.  Choose 10 classmates to play
+<img src="images/paste-A18A0B36.png"  width="400" caption="The game ask if ypu want to play">
+
+2.  Earn 15 stars in a real effort task
+
+<img src="images/real-effort.gif"  width="400">
+
+3.  Choose 10 classmates to play
 
     ![](images/paste-25777191.png)
 
-3.  Distribute 15 stars between 10 selected tokens
+4.  Distribute 15 stars between 10 selected tokens
 
 ![Stars animation](featured.gif)
 
@@ -44,8 +50,8 @@ The game protocol have 4 stages, implemented in the
 
 -   Who do you don't like or want to hang out
 
-### See a full demo and instructions video (with Spanish audio) :
 
-## Sample
+## Participants
+
 
 ![](images/paste-257B2C39.png)
