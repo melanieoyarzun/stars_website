@@ -19,13 +19,11 @@ cascade:
 
   \n 
 
-    The project is led by [Patricia Soto-Icaza](https://dccs.udd.cl/persona/patricia-soto-icaza/) researcher at the   Laboratory In Social Neurociences at The Research Center for Social Complexity (CICS *in spanish*), Facultad de Gobierno, Universidad del Desarrollo, Chile.
+    The project is led by [Patricia Soto-Icaza](https://dccs.udd.cl/persona/patricia-soto-icaza/) researcher at the   Laboratory In Social Neuroscience at The Research Center for Social Complexity (CICS *in spanish*), Goverment Faculty, Universidad del Desarrollo, Chile.
     
     \n
     
-    The project is funded by the Chilean National Agency of Research and Development (in spanish, ANID -Agencia Nacional de Investigación y Desarrollo) *PAI project folio 7719004*.
-    "
-    
+    The project is funded by the Chilean National Agency of Research and Development (in spanish, ANID -Agencia Nacional de Investigación y Desarrollo) *PAI project folio 7719004*. "
     
     show_author_byline: false
     show_post_date: false

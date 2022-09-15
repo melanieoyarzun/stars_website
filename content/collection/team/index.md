@@ -11,8 +11,9 @@ url: "/stars/team"
 # Team
 
 
-This Project is led by [Patricia Soto-Icaza](https://dccs.udd.cl/persona/patricia-soto-icaza/) researcher at the Laboratory In Social Neurociences at The Research Center for Social Complexity (CICS *in spanish*), Facultad de Gobierno, Universidad del Desarrollo.
-
+This Project is led by [Patricia Soto-Icaza](https://dccs.udd.cl/persona/patricia-soto-icaza/)
+researcher at the Laboratory in Social Neuroscience at The Research Center for Social Complexity (CICS *in spanish*), Goverment Faculty, Universidad del Desarrollo, Chile.
+    
 This project is the joint effort from different collaborators [Tamara Yaikin](https://dccs.udd.cl/persona/claudia-fernandino-bonino-2/), [Mirla Arcos](https://www.researchgate.net/profile/Mirla-Arcos-Polanco), [Cristian Candia](https://linktr.ee/crcandiav), [Carlos Rodríguez-Sickert](https://dccs.udd.cl/persona/carlos-rodriguez-sickert-2/) , and [Pablo Billeke](https://dccs.udd.cl/persona/pablo-billeke-2/) and myself, Melanie Oyarzun, Phd. Candidate in Social Compleixty Sciences.
 
 ![](images/paste-85FE249A.png)

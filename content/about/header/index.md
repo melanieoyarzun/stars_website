@@ -38,3 +38,4 @@ Currently I'm working in 3 different studies:
 
 -   We design and validate a behavioral measure for social status for elementary school students. Then, we explore the connection between friendship and dyadic cooperation in students of different social ranks.
 - Currently writing the manuscript, you can see a poster presentation here: <https://osf.io/whabz/> 
+
