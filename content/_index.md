@@ -1,6 +1,6 @@
 ---
 action_label: More about the project &rarr;
-action_link: /about
+action_link: /stars
 action_type: text
 description: "In this study: **Social Interactions and School Coexistence in Public Elementary Schools’ Neurodiverse Classrooms**  we aim to better understand the role of neurodiversity in social relationships in educational contexts.
 
