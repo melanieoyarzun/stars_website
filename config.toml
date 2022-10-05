@@ -2,8 +2,8 @@ baseURL = "https://moyarzun.netlify.app"
 
 theme = "hugo-apero"
 languageCode = "en"
-title = "Melanie Oyarzun"
-author = "Melanie Oyarzun"
+title = "Proyecto- El Juego de las estrellas "
+author = "CICS"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -30,11 +30,11 @@ relativeURLs = true
     style = "github"
     
 [params]
-  orgName = "Melanie Oyarzun @ Center for Social Complexity (CICS) & CINS "
+  orgName = " Center for Social Complexity (CICS) "
   orgLocal = ""
-  description = "My personal website"
-  favicon = "/img/MO-3.png"
-  logo = "/img/MO-3.png"
+  description = "Project website"
+  favicon = "/img/star.ico"
+  logo = "/img/star.png"
   mainSections = ["stars"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -96,9 +96,9 @@ relativeURLs = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/melanieoyarzun"
+ #     icon      = "github" # icon name without the 'fa-'
+#      icon_pack = "fab"
+#      url       = "https://github.com/melanieoyarzun"
   #[[params.social]]
   #    icon      = "facebook-square" # icon name without the 'fa-'
   #    icon_pack = "fab"
@@ -108,17 +108,17 @@ relativeURLs = true
   #    icon_pack = "fab"
   #    url       = "https://www.instagram.com/explore/tags/apero/"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/mel2kill"
+ #     icon      = "twitter" # icon name without the 'fa-'
+#      icon_pack = "fab"
+#      url       = "https://twitter.com/mel2kill"
  # [[params.social]]
  #     icon      = "impactstory" # icon name without the 'fa-'
  #    icon_pack = "ai"
  #    url       = "https://impactstory.org/u/0000-0002-8082-1890"
   [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://orcid.org/0000-0002-4869-3956"
+ #     icon      = "orcid" # icon name without the 'fa-'
+#      icon_pack = "ai"
+#      url       = "https://orcid.org/0000-0002-4869-3956"
 #  [[params.social]]
 #      icon      = "rss" # icon name without the 'fa-'
 #      icon_pack = "fas"
@@ -126,20 +126,20 @@ relativeURLs = true
 
 
  [[params.social]]
-      icon      = "google-scholar" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://scholar.google.cl/citations?user=5-t0IgkAAAAJ&hl=es"
+ #     icon      = "google-scholar" # icon name without the 'fa-'
+#      icon_pack = "ai"
+ #     url       = "https://scholar.google.cl/citations?user=5-t0IgkAAAAJ&hl=es"
 
  [[params.social]]
-      icon      = "youtube" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.youtube.com/c/MelanieOyarzun"
+    #  icon      = "youtube" # icon name without the 'fa-'
+    #  icon_pack = "fab"
+    #  url       = "https://www.youtube.com/c/MelanieOyarzun"
 
 
  [[params.social]]
-      icon      = "envelope" # icon name without the 'fa-'
-      icon_pack = "fa"
-      url       = "mailto: moyarzunw@udd.cl"
+    #  icon      = "envelope" # icon name without the 'fa-'
+    #  icon_pack = "fa"
+    #  url       = "mailto: moyarzunw@udd.cl"
       
 [taxonomies]
   category = "categories"
@@ -194,8 +194,8 @@ relativeURLs = true
 
  
  [[menu.header]]
-name = "stars Project (EUSN2022 Poster website)"
-title = "Stars Project (EUSN2022 Poster website)"
+name = "stars Project ( Poster website)"
+title = "Stars Project (Poster website)"
 url = "/stars/"
 weight = 2
     
@@ -206,10 +206,10 @@ weight = 2
     url = "/license/"
     weight = 1
   [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
+#    name = "Contact"
+#    title = "Contact form"
+#    url = "/contact/"
+#    weight = 2
 
 #  [[menu.footer]]
 #    name = "Contributors"

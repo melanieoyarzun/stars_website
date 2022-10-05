@@ -7,7 +7,7 @@ cascade:
   sidebar:
     author: 
     description: "
-  **This website is a complement to the poster presented at [EUSN 2022](https://eusn2022.org) - 6th European Conference on Social Networks and is a work in progress**
+  **This website is a complement to the poster presented at Feria de Ciencias UDD 2022 and is a work in progress**
   
     \n 
   
